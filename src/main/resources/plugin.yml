@@ -1,0 +1,4 @@
+name: VoidStone
+version: '1.0-SNAPSHOT'
+main: tytan.sulfuritium.voidStone.VoidStone
+api-version: '1.21'
